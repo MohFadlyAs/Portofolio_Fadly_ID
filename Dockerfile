@@ -1,5 +1,5 @@
-# Tahap 1: Build aplikasi React/Vite kamu
-FROM node:18-alpine AS builder
+# Tahap 1: Build aplikasi React/Vite kamu menggunakan Node 22
+FROM node:22-alpine AS builder
 WORKDIR /app
 COPY package*.json ./
 RUN npm install

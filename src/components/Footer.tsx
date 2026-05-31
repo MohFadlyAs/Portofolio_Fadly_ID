@@ -32,7 +32,7 @@ export default function Footer() {
             
             <div className="flex items-center gap-4">
               {[
-                { icon: <Github size={20} />, href: "https://github.com/fadlystudio" },
+                { icon: <Github size={20} />, href: "https://github.com/MohFadlyAs" },
                 { icon: <Linkedin size={20} />, href: "https://linkedin.com/in/moh-fadly-ahmad-sehabudin-1b9412290/" },
                 { icon: <Instagram size={20} />, href: "https://instagram.com/m_fadli_as" }
               ].map((social, i) => (

@@ -32,14 +32,16 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-            <motion.button
+            <motion.a
+              href="/Moh Fadly Ahmad Sehabudin_CV_ATS.pdf"
+              download="CV_Moh_Fadly_Ahmad_Sehabudin.pdf"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="flex items-center gap-2 px-8 py-4 bg-slate-900 text-white rounded-2xl font-medium shadow-xl shadow-slate-200 hover:bg-slate-800 transition-all w-full sm:w-auto justify-center"
             >
               Unduh CV
               <Download size={18} />
-            </motion.button>
+            </motion.a>
             
             <a 
               href="#projects"

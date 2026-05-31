@@ -21,8 +21,8 @@ const SKILLS = [
 
 const TOOLS = [
   { name: "Figma", url: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" },
-  { name: "Canva", url: "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" },
-  { name: "CapCut", url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/CapCut_logo.svg" },
+  { name: "Canva", url: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" },
+  { name: "CapCut", url: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/capcut-icon.png" },
   { name: "Lightroom", url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" }
 ];
 

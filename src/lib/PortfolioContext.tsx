@@ -75,7 +75,8 @@ const REAL_ACTIVITIES: Activity[] = [
     title: "Sekretaris Umum - OP3M Multazam",
     description: "Mengelola alur administrasi untuk lebih dari 20 kegiatan santri, meningkatkan efisiensi pengarsipan hingga 30% melalui sistem yang diperbarui.",
     location: "Kota Bandung",
-    date: "2020 - 2023"
+    date: "2020 - 2023",
+    imageUrl: ASSETS.ACTIVITIES.ORGANISASI
   }
 ];
 
